@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+projectId.js
+.key
+
+
+#Hardhat files
+cache
+artifacts
